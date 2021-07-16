@@ -19,7 +19,7 @@
 `npx wdio run wdio.conf.js --parallel=true`
 
 **Reports of the Tests:**
-1. Reports will be generated at the location 'src/features'
+1. Reports will be generated at the below location:
 `root/tests/reports`
 
 **Context Sharing:**
